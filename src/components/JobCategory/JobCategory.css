@@ -1,0 +1,13 @@
+.category-container {
+    background-color: #ececec;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.category-container h3 {
+    color: #474747;
+}
+
+.category-container p {
+    color: #A3A3A3;
+}

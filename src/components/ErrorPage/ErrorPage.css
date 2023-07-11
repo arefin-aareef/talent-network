@@ -1,0 +1,32 @@
+.error-page-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f8f9fa;
+  }
+  
+  .error-page-title {
+    font-size: 48px;
+    color: #dc3545;
+  }
+  
+  .error-page-message {
+    font-size: 24px;
+    color: #343a40;
+    margin-top: 16px;
+  }
+  
+  .error-page-image {
+    width: 200px;
+    height: 200px;
+    margin-top: 24px;
+  }
+  
+  .error-page-link {
+    font-size: 18px;
+    color: #007bff;
+    margin-top: 24px;
+    text-decoration: none;
+  }

@@ -1,0 +1,20 @@
+.job-categories {
+    margin-top: 100px;
+}
+
+.category-header {
+    text-align: center;
+    color: #1A1919;
+}
+
+.category-description {
+    text-align: center;
+    margin: 18px 0 32px 0;
+    color: #757575;
+}
+
+.categories-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 25px;
+}

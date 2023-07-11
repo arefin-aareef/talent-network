@@ -1,0 +1,32 @@
+.banner {
+    display: grid;
+    margin-top: 35px;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.banner-content h1 {
+    font-size: 80px;
+    margin-bottom: 24px;
+}
+
+.banner-content p {
+    font-weight: 500;
+    font-size: 22px;
+    margin-bottom: 32px;
+}
+
+.banner-content button {
+    color: white;
+    background-color: #7E90FE;
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+}
+
+.job-color {
+    color: #7E90FE;
+}
+
+.banner img {
+    width: 100%;
+}

@@ -1,0 +1,45 @@
+.featured-job {
+    border: 1px solid rgb(214, 214, 214);
+    padding: 40px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.company-logo {
+    height: 50px;
+}
+
+.company-name {
+    margin: 0;
+}
+
+.employment-detail {
+    display: flex;
+}
+
+.employment-detail p {
+    margin-right: 15px;
+    padding: 10px;
+    border: 1px solid #7E90FE;
+    border-radius: 5px;
+    color: #7E90FE;
+}
+
+.salary-container {
+    display: flex;
+    align-items: center;
+}
+
+.salary-container P {
+    margin: 0 20px 0 5px;
+}
+
+.view-details-btn {
+    color: white;
+    background-color: #7E90FE;
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    cursor: pointer;
+}
